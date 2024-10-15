@@ -1,0 +1,27 @@
+{
+    "name": "rigonlucas/langing-page",
+    "description": "A sample project",
+    "require": {
+        "php": "^8.0"
+    },
+    "require-dev": {},
+    "version": "1.0.0",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "repositories": [],
+    "packages": [],
+    "packages-dev": [],
+    "scripts": {
+        "post-autoload-dump": []
+    },
+    "autoload": {
+        "psr-4": {
+        }
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "optimize-autoloader": true,
+        "classmap-authoritative": true
+    }
+}
