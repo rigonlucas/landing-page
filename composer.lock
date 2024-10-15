@@ -2,7 +2,7 @@
     "name": "rigonlucas/langing-page",
     "description": "A sample project",
     "require": {
-        "php": "^8.0"
+        "php": "^8.3"
     },
     "require-dev": {},
     "version": "1.0.0",
