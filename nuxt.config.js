@@ -8,7 +8,7 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     titleTemplate: '%s - landing-page',
-    title: 'landing-page',
+    title: 'landing-page teste',
     htmlAttrs: {
       lang: 'en'
     },
